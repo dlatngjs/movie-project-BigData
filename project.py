@@ -21,7 +21,7 @@ import pandas as pd
 import textwrap
 from IPython.display import Image, display
 
-api_key = "58fd5aa91a5b204f9ca4378d0a456c91"
+api_key = ""
 base_url = "https://api.themoviedb.org/3"
 poster_url = "https://image.tmdb.org/t/p/w500"
 
